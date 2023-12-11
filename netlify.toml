@@ -3,6 +3,12 @@
     to = "https://BypassDirect.visuallysynced.xyz/"
     status = 301
     force = true
+
+[[redirects]]
+    from = "https://visuallysynced.xyz/blog"
+    to = "https://blog.visuallysynced.xyz/"
+    status = 301
+    force = true
     
 [[redirects]]
     from = "/gh/*"
