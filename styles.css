@@ -3,7 +3,68 @@
 * {
     scroll-behavior: smooth;
 }
+@media only screen and (max-width: 600px) {
+    body {
+      font-size: 14px;
+    }
 
+    h2 {
+      padding-top: 20px;
+      padding-left: 5px;
+      font-size: 1.8em;
+    }
+
+    p {
+      padding-left: 10px;
+      font-size: 1em;
+    }
+
+    a {
+      font-size: 0.9em;
+    }
+
+    header {
+      text-align: center;
+      padding: 10px 0;
+    }
+
+    .logo {
+      text-align: center;
+      margin-bottom: 10px; 
+    }
+
+    .logo h1 {
+      font-size: 1.5em; 
+    }
+
+    nav ul {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 0;
+    }
+
+    nav ul li {
+      margin: 10px 0;
+    }
+
+    .project-box {
+      padding-left: 15px;
+    }
+
+    .project-box a {
+      font-size: 0.9em;
+    }
+
+    footer {
+      padding-top: 20px;
+    }
+
+    footer p {
+      margin-top: 20px;
+      padding-bottom: 10px;
+    }
+  }
 body {
     background-color: #101010;
     color: #e06c75;
