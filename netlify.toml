@@ -15,3 +15,9 @@
     to = "https://github.com/visuallysynced/:splat"
     status = 301
     force = true
+    
+[[redirects]]
+    from = "/visit"
+    to = "https://us.ari.lt/counter/@lenvx/QSzbfnT5yYKACVlRS1MAvpXjN0cwKBEKU3Xnil1GTqoq14kJyBTd7GQbRJIzVzUW.svg?font=hack&ratio=2&fill=%23e06c75"
+    status = 301
+    force = true
