@@ -15,6 +15,18 @@
     to = "https://github.com/visuallysynced/:splat"
     status = 301
     force = true
+
+[[redirects]]
+    from = "/git"
+    to = "https://github.com/visuallysynced/website"
+    status = 301
+    force = true
+    
+[[redirects]]
+    from = "/src"
+    to = "https://github.com/visuallysynced/website"
+    status = 301
+    force = true
     
 [[redirects]]
     from = "/visit"
