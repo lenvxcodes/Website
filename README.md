@@ -1,5 +1,5 @@
 # My personal website
-[Click here to visit my website](visuallysynced.xyz)
+[Click here to visit my website](https://visuallysynced.xyz)
 
 - I don't know what to tell you but this is my source lo..
 
